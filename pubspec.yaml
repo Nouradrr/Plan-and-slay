@@ -1,0 +1,14 @@
+name: plan_and_slay
+description: Plan & Slay - Sprint 3
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
